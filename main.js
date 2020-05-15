@@ -1,4 +1,4 @@
-var CHANNEL_ACCESS_TOKEN = 'アクセストーン'; 
+var CHANNEL_ACCESS_TOKEN = 'アクセストークン'; 
 
 function doPost(e) {
   // メッセージ受信
